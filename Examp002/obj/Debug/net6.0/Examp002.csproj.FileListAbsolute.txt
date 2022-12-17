@@ -1,0 +1,15 @@
+C:\Education\C_Sharp\Lesson2\Examp002\obj\Debug\net6.0\Examp002.csproj.AssemblyReference.cache
+C:\Education\C_Sharp\Lesson2\Examp002\obj\Debug\net6.0\Examp002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Education\C_Sharp\Lesson2\Examp002\obj\Debug\net6.0\Examp002.AssemblyInfoInputs.cache
+C:\Education\C_Sharp\Lesson2\Examp002\obj\Debug\net6.0\Examp002.AssemblyInfo.cs
+C:\Education\C_Sharp\Lesson2\Examp002\obj\Debug\net6.0\Examp002.csproj.CoreCompileInputs.cache
+C:\Education\C_Sharp\Lesson2\Examp002\bin\Debug\net6.0\Examp002.exe
+C:\Education\C_Sharp\Lesson2\Examp002\bin\Debug\net6.0\Examp002.deps.json
+C:\Education\C_Sharp\Lesson2\Examp002\bin\Debug\net6.0\Examp002.runtimeconfig.json
+C:\Education\C_Sharp\Lesson2\Examp002\bin\Debug\net6.0\Examp002.dll
+C:\Education\C_Sharp\Lesson2\Examp002\bin\Debug\net6.0\Examp002.pdb
+C:\Education\C_Sharp\Lesson2\Examp002\obj\Debug\net6.0\Examp002.dll
+C:\Education\C_Sharp\Lesson2\Examp002\obj\Debug\net6.0\refint\Examp002.dll
+C:\Education\C_Sharp\Lesson2\Examp002\obj\Debug\net6.0\Examp002.pdb
+C:\Education\C_Sharp\Lesson2\Examp002\obj\Debug\net6.0\Examp002.genruntimeconfig.cache
+C:\Education\C_Sharp\Lesson2\Examp002\obj\Debug\net6.0\ref\Examp002.dll
